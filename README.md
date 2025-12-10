@@ -63,12 +63,9 @@ I’m a Full Stack Software Engineer & DevOp Engineer passionate about building 
 ![Agile](https://img.shields.io/badge/Agile%20%2F%20Scrum-%2300ADD8.svg?style=for-the-badge&logo=scrumalliance&logoColor=white)
 
 
-# 📊 GitHub Stats:
-![](https://github-contributor-stats.vercel.app/api?username=hesbonangwenyi606&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=hesbonangwenyi606&icon=0&color=0)](https://visitcount.itsvg.in)
-![](https://github-contributor-stats.vercel.app/api?username=hesbonangwenyi606&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ninga01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 

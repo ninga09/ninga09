@@ -64,10 +64,11 @@ I’m a Full Stack Software Engineer & DevOp Engineer passionate about building 
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ninga01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ninga01&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ninga01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-contributor-stats.vercel.app/api?username=hesbonangwenyi606&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+---
+[![](https://visitcount.itsvg.in/api?id=hesbonangwenyi606&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://github-contributor-stats.vercel.app/api?username=hesbonangwenyi606&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ninga01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 

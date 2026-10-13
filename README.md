@@ -1,79 +1,179 @@
-![Welcome To My GitHub Profile](https://capsule-render.vercel.app/api?type=waving&height=220&text=Welcome%20To%20My%20GitHub%20Profile&fontSize=50&fontAlign=50&fontColor=ffffff&color=0:1e3c72,100:2a5298&animation=wave)
+<div align="center">
 
-<!-- ⌨️ Animated Typing Roles --> 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;DevOps+Engineer;Cloud+%7C+CI%2FCD+Automation;Python+%7C+TypeScript+%7C+JavaScript;I+Build+Scalable+Web+Applications)](https://git.io/typing-svg)
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&height=220&text=Reagan%20Ninga&fontSize=52&fontAlign=50&fontColor=ffffff&color=0:1e3c72,100:2a5298&animation=wave)
 
-# 💫 About Me:
-I’m a Full Stack Software Engineer & DevOp Engineer passionate about building scalable web applications and automating infrastructure to streamline deployments. I work with Typescript, django, react, Python, and JavaScript, and enjoy creating solutions that are both efficient and maintainable. When I’m not coding, I explore new technologies, contribute to open-source projects, and experiment with DevOps tools like Docker, Kubernetes, and Terraform to optimize workflows.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full+Stack+%26+DevOps+Engineer;Automating+Cloud+Infrastructure+%7C+IaC;Kubernetes+%7C+Docker+%7C+Terraform;CI%2FCD+Pipelines+%7C+GitOps+%7C+Cloud;Building+Scalable+%26+Reliable+Systems)](https://git.io/typing-svg)
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ninga09&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Focus-DevOps%20%7C%20Cloud%20%7C%20Full%20Stack-2ea44f?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborations-blueviolet?style=flat-square" alt="Status" />
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ningaDev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/reagan-ninga-389911241) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@ningareagan001) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ningawetu@gmail.com) 
-
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B)
-### 🖥️ Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+</div>
 
 ---
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge&logo=swagger&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+## 👨‍💻 About Me
+
+<img align="right" alt="DevOps Automation" width="380" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
+
+I am a **Full Stack & DevOps Cloud Engineer** passionate about bridging the gap between development and operations. I specialize in architecting modern web platforms, automating infrastructure through code, and designing resilient, zero-downtime CI/CD pipelines.
+
+- 🔭 **Focus Areas:** Cloud Architecture, Infrastructure as Code (IaC), Container Orchestration, GitOps, and High-Performance Web Applications.
+- ⚙️ **Philosophy:** Everything that can be automated should be automated. Prioritizing **scalability, reliability, security, and developer velocity**.
+- 💬 **Ask me about:** Docker, Kubernetes, Terraform, AWS/Azure, CI/CD with GitHub Actions & Jenkins, React/Next.js, and Python/Node.js.
 
 ---
 
-### ☁️ DevOps
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%23623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+## 🚀 DevOps & Engineering Focus
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>☁️ Cloud & Infrastructure as Code</h3>
+      <ul>
+        <li>Automating infrastructure provisioning across <b>AWS</b> and <b>Azure</b> using <b>Terraform</b> and <b>Ansible</b>.</li>
+        <li>Architecting highly-available VPC networks, compute clusters, serverless workloads, and storage solutions.</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>🐳 Containers & Orchestration</h3>
+      <ul>
+        <li>Dockerizing microservices with multi-stage builds for minimal image footprint and fast deployments.</li>
+        <li>Deploying and orchestrating production-grade workloads on <b>Kubernetes (EKS, AKS, K8s)</b> using <b>Helm</b> and <b>ArgoCD</b>.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🔁 CI/CD & GitOps Automation</h3>
+      <ul>
+        <li>Building end-to-end automated pipelines with <b>GitHub Actions</b>, <b>Jenkins</b>, and <b>GitLab CI</b>.</li>
+        <li>Implementing GitOps workflows for predictable, declarative configuration management and deployments.</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>📊 Observability & DevSecOps</h3>
+      <ul>
+        <li>Setting up centralized monitoring, alerts, and metrics using <b>Prometheus</b>, <b>Grafana</b>, and <b>ELK Stack</b>.</li>
+        <li>Integrating continuous security scans with <b>SonarQube</b>, vulnerability checks, and secret management.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+## 🧰 Technical Arsenal
+
+### ☁️ Cloud & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,ansible" alt="Cloud & IaC" />
+</p>
+
+### 🐳 Containers & Orchestration
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes" alt="Containers" />
+  <img src="https://icon.icepanel.io/Technology/png-shadow-512/Helm.png" width="48" height="48" alt="Helm" />
+  <img src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" width="48" height="48" alt="ArgoCD" />
+</p>
+
+### 🔁 CI/CD & Workflow Automation
+<p>
+  <img src="https://skillicons.dev/icons?i=githubactions,jenkins,gitlab,github" alt="CI/CD" />
+</p>
+
+### 📊 Observability & Monitoring
+<p>
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch" alt="Observability" />
+</p>
+
+### 🔐 Security & DevSecOps
+<p>
+  <img src="https://icon.icepanel.io/Technology/svg/SonarQube.svg" width="48" height="48" alt="SonarQube" />
+  <img src="https://icon.icepanel.io/Technology/svg/HashiCorp-Vault.svg" width="48" height="48" alt="Vault" />
+</p>
+
+### ⚙️ Backend & API Development
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,graphql" alt="Backend" />
+</p>
+
+### 🖥️ Frontend & UI Engineering
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css" alt="Frontend" />
+</p>
+
+### 🗄️ Databases & Caching
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" alt="Databases" />
+</p>
+
+### 🖥️ Scripting & Operating Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,powershell,git" alt="Scripting & OS" />
+</p>
 
 ---
 
-### 🧰 Tools & Others
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
-![Agile](https://img.shields.io/badge/Agile%20%2F%20Scrum-%2300ADD8.svg?style=for-the-badge&logo=scrumalliance&logoColor=white)
+## 📊 GitHub Analytics
 
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=ninga09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninga09&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  <br />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ninga01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ninga09&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+
+  <br /><br />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ninga09&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ninga01&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ningawetu@gmail.com) 
+## 🤝 Connect & Collaborate
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="left">
+  <a href="https://www.linkedin.com/in/reagan-ninga-389911241" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/ninga09" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
+  <a href="https://x.com/ningareagan001" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter/X" />
+  </a>
+  <a href="https://instagram.com/ningaDev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
+  <a href="mailto:ningawetu@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+  </a>
+</p>
+
+📫 Reach me directly at: **[ningawetu@gmail.com](mailto:ningawetu@gmail.com)**
+
+---
+
+## ☕ Support My Work
+
+<p align="left">
+  <a href="https://paypal.me/ningawetu@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal Donation" />
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</div>
